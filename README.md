@@ -1,12 +1,10 @@
 ## 19 Progressive Web Applications (PWA) : Text Editor
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Description
 
 The application is a web text editor where the user can create notes or code snippets with or without an internet connection and where the user can reliably retrieve them for later use.  The integrated service worker and Cache API's ensure that the application will remain fully functional even without and active internet connection.  This application allows the user to access visited pages even if the application is offline.
 
-The URL of the GitHub repository is https://github.com/stellalph/19-PWA-Text-Editor.git and the repository name is 19-PWA-Text-Editor.
+The URL of the GitHub repository is https://github.com/jschults/19-PWA-Text-Editor.git and the repository name is 19-PWA-Text-Editor.
 
 🚀The application has been deployed to Heroku and the URL of the deployed application is:-
  
@@ -122,13 +120,3 @@ THEN I should have proper build scripts for a webpack application
 ````````
 ![alt text](/assets/images/TE11.png)
 
-
-## References
-
-*   The Unit Ahead : Progressive Web Applications (PWA)
-*   Module 19 Mini-Project: Deploy Contact Directory App on Heroku with Script
-*   Request-Response : The Full-Stack Blog : Heroku Deployment Guide
- 
-## License
-
-This project is licensed under the terms of the MIT license.
