@@ -14,8 +14,6 @@ https://mighty-waters-80466.herokuapp.com/
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [References](#references)
-* [License](#license)
 
 ## Installation
 
